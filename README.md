@@ -19,10 +19,15 @@ Please cite the above publication, if you find the code helpful in your research
 Bibtex:
 
 @inproceedings{TADT,
+
     author    = {Li, Xin and Ma, Chao and Wu, Baoyuan and He, Zhenyu and Yang, Ming-Hsuan},
+    
     title     = {Target-Aware Deep Tracking},
+    
     booktitle = {IEEE Conference on Computer Vision and Pattern Recognition},
+    
     year      = {2019}
+    
 }
 
 
