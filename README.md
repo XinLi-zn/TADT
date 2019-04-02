@@ -18,11 +18,11 @@ Please cite the above publication, if you find the code helpful in your research
 
 Bibtex:
 
-@inproceedings{TADT,
-    author    = {Li, Xin and Ma, Chao and Wu, Baoyuan and He, Zhenyu and Yang, Ming-Hsuan},
-    title     = {Target-Aware Deep Tracking},
-    booktitle = {IEEE Conference on Computer Vision and Pattern Recognition},
-    year      = {2019}
+@inproceedings{TADT,  
+    author    = {Li, Xin and Ma, Chao and Wu, Baoyuan and He, Zhenyu and Yang, Ming-Hsuan},  
+    title     = {Target-Aware Deep Tracking},  
+    booktitle = {IEEE Conference on Computer Vision and Pattern Recognition},  
+    year      = {2019}  
 }
 
 
@@ -33,13 +33,13 @@ https://xinli-zn.github.io/TADT-project-page/
 Please let me know, if you have any suggestions about the code.
 
 Xin Li
-Email: xinlihitsz@gmail.com
+Email: xinlihitsz@gmail.com  
 Homepage: https://sites.google.com/view/xinli-homepage
 
 ## Installation
-1. Clone the GIT repository:
-$ git clone 
-2. Start Matlab and navigate to the repository
-3. Run the demo script to test the tracker:
+1. Clone the GIT repository:  
+$ git clone  
+2. Start Matlab and navigate to the repository  
+3. Run the demo script to test the tracker:  
 |>> demo_TADT
 
