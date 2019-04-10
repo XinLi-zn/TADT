@@ -9,7 +9,7 @@ Matlab implementation of the Target-Aware Deep Tracking (TADT) method.
 
 ## Publication
 Details about the TADT tracker can be found in the CVPR 2019 paper:  
-[Target-Aware Deep Tracking](https://arxiv.org/abs/1904.01772)
+[Target-Aware Deep Tracking](https://arxiv.org/abs/1904.01772)  
 Xin Li, Chao Ma, Baoyuan Wu, Zhenyu He, Ming-Hsuan Yang.  
 In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.  
 
