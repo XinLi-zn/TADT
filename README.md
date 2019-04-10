@@ -4,7 +4,7 @@ Matlab implementation of the Target-Aware Deep Tracking (TADT) method.
 
 **Main contents:**
 - Codes of the TADT tracker.
-- Codes of figure drawing.
+- Codes of figure drawing (coming soon).
 
 
 ## Publication
