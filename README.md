@@ -28,8 +28,6 @@ Bibtex:
 https://xinli-zn.github.io/TADT-project-page/
 
 ## Contact
-Please let me know, if you have any suggestions about the code.
-
 Xin Li
 Email: xinlihitsz@gmail.com  
 Homepage: https://sites.google.com/view/xinli-homepage
