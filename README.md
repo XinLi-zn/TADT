@@ -23,7 +23,6 @@ Bibtex:
     year      = {2019}  
 }
 
-
 ## Project webpage
 https://xinli-zn.github.io/TADT-project-page/
 
@@ -39,3 +38,5 @@ $ git clone
 3. Run the demo script to test the tracker:  
 |>> demo_TADT
 
+## Raw Results
+[\[OTB\]](https://xinli-zn.github.io/TADT-project-page/results/OTB100.zip) [\[VOT\]](https://xinli-zn.github.io/TADT-project-page/results/VOT.zip) [\[TC128\]](https://xinli-zn.github.io/TADT-project-page/results/TC128.zip)
