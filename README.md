@@ -7,6 +7,17 @@ Matlab implementation of the Target-Aware Deep Tracking (TADT) method.
 - Codes of figure drawing (coming soon).
 
 
+## Installation
+
+This code has been tested on a Ubantu Platform with Matlab and the [MatConvNet](http://www.vlfeat.org/matconvnet/) toolbox.
+You may install it with the following steps:
+1. Clone the GIT repository:  
+$ git clone  
+2. Start Matlab and navigate to the repository
+3. Compile the MatConvNet toolkit or adding the path of a compiled one on you machine.
+4. Run the demo script to test the tracker:  
+|>> demo_TADT
+
 ## Publication
 Details about the TADT tracker can be found in the CVPR 2019 paper:  
 [Target-Aware Deep Tracking](https://arxiv.org/abs/1904.01772)  
@@ -23,6 +34,9 @@ Bibtex:
     year      = {2019}  
 }
 
+## Raw Results
+[\[OTB\]](https://xinli-zn.github.io/TADT-project-page/results/OTB100.zip) [\[VOT\]](https://xinli-zn.github.io/TADT-project-page/results/VOT.zip) [\[TC128\]](https://xinli-zn.github.io/TADT-project-page/results/TC128.zip)
+
 ## Project webpage
 https://xinli-zn.github.io/TADT-project-page/
 
@@ -31,12 +45,3 @@ Xin Li
 Email: xinlihitsz@gmail.com  
 Homepage: https://sites.google.com/view/xinli-homepage
 
-## Installation
-1. Clone the GIT repository:  
-$ git clone  
-2. Start Matlab and navigate to the repository  
-3. Run the demo script to test the tracker:  
-|>> demo_TADT
-
-## Raw Results
-[\[OTB\]](https://xinli-zn.github.io/TADT-project-page/results/OTB100.zip) [\[VOT\]](https://xinli-zn.github.io/TADT-project-page/results/VOT.zip) [\[TC128\]](https://xinli-zn.github.io/TADT-project-page/results/TC128.zip)
