@@ -1,10 +1,5 @@
 # Target-Aware Deep Tracking
-
 Matlab implementation of the Target-Aware Deep Tracking (TADT) method.
-
-**Main contents:**
-- Codes of the TADT tracker.
-- Codes of figure drawing (coming soon).
 
 
 ## Installation
@@ -34,14 +29,17 @@ Bibtex:
     year      = {2019}  
 }
 
-## Raw Results
+## Raw results
 [\[OTB\]](https://xinli-zn.github.io/TADT-project-page/results/OTB100.zip) [\[VOT\]](https://xinli-zn.github.io/TADT-project-page/results/VOT.zip) [\[TC128\]](https://xinli-zn.github.io/TADT-project-page/results/TC128.zip)
 
 ## Project webpage
 https://xinli-zn.github.io/TADT-project-page/
 
+## Other implementations
+[\[pytorch\]](https://github.com/ZikunZhou/TADT-python)
+
+
 ## Contact
-Xin Li
 Email: xinlihitsz@gmail.com  
 Homepage: https://sites.google.com/view/xinli-homepage
 
